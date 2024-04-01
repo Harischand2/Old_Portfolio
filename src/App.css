@@ -20,7 +20,7 @@
     background-color: rgba(187, 183, 183, 0.046);
     
   }
-
+ 
 
   .nav_{
     top: 0;
@@ -37,16 +37,11 @@
     color:  rgb(20, 126, 251);
     /* text-decoration: underline; */
   }
-  /* @media(max-width: 768px){
-    .home_page{
-          padding-bottom: 800px;
-    }
+  @media(max-width: 768px){ 
+    .contact_page{
+    margin-top: 200px;
+      }
 
   }
-  @media(max-width: 400px){
-    .home_page{
-          padding-bottom: 900px;
-    }
 
-  } */
   

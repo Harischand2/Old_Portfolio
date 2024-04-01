@@ -6,13 +6,6 @@
 
 .about_img img{
    border-radius: 15px;
-
-   width: auto;
-}
-@media(max-width: 768px){
-    .d_{
-        margin-bottom: 100px;
-    }
 }
 
 .a_m{
@@ -35,4 +28,17 @@
     margin-left: 5px;
     font-size: 20px;
     color: darkblue;
+}
+
+@media(max-width: 768px){
+    .d_{
+        margin-bottom: 100px;
+    }
+    .about_img img{
+        margin-top: 10px;
+        width: 80%;
+     }
+     .a_title{
+        font-size: 18px;
+    }
 }

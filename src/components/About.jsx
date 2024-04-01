@@ -10,7 +10,7 @@ export default function About() {
     <div className="col-12 col-md-6 d-flex flex-column justify-content-center d_">
     <p className='text-center a_m' >About Me</p>
 
-    <p className='text-center a_title '>
+    <p className='text-center a_title'>
     Full Stack Developer based in New York, U.S.A📍
     </p>
       <p className="a_d">
