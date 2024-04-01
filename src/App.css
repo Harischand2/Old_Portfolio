@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+  }
+  body{
+    height: 100vh;
+    position: relative;
+
+  }
+
+  .home_page{
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.15);
+  }
+  .about_page{
+    height: 100vh;
+    background-color: rgba(128, 128, 128, 0.295);
+  }
+  .project_page{
+    height: 110vh;
+    background-color: rgba(187, 183, 183, 0.046);
+    
+  }
+
+
+  .nav_{
+    top: 0;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(128, 128, 128, 0.717);
+  }
+  .link_{
+    font-weight: bold;
+    font-size: 17px;
+    color: black;
+    
+  }
+  .link_:hover{
+    color:  rgb(20, 126, 251);
+    /* text-decoration: underline; */
+  }
+  /* @media(max-width: 768px){
+    .home_page{
+          padding-bottom: 800px;
+    }
+
+  }
+  @media(max-width: 400px){
+    .home_page{
+          padding-bottom: 900px;
+    }
+
+  } */
+  
