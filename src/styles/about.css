@@ -31,14 +31,15 @@
 }
 
 @media(max-width: 768px){
-    .d_{
-        margin-bottom: 100px;
-    }
+
     .about_img img{
         margin-top: 10px;
         width: 80%;
      }
      .a_title{
         font-size: 18px;
+    }
+    .a_d{
+        font-size: 12px;
     }
 }
